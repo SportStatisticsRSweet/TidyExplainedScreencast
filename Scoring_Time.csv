@@ -1,0 +1,139 @@
+Quarter,Time,Player,Event
+1,0:16,K.Austin,MISS
+1,0:40,S.Nelson,GOAL
+1,1:29,K.Austin,GOAL
+1,1:56,K.Austin,GOAL
+1,2:13,S.Nelson,GOAL
+1,2:45,K.Austin,GOAL
+1,3:16,S.Nelson,GOAL
+1,3:31,K.Austin,GOAL
+1,4:11,J.Harten,GOAL
+1,5:03,S.Nelson,MISS
+1,5:16,G.Sinclair,GOAL
+1,5:30,G.Sinclair,MISS
+1,5:53,S.Nelson,GOAL
+1,6:26,G.Sinclair,GOAL
+1,6:48,G.Sinclair,MISS
+1,7:34,K.Austin,MISS
+1,8:32,S.Nelson,GOAL
+1,8:48,K.Austin,GOAL
+1,9:10,S.Nelson,GOAL
+1,9:33,S.Nelson,GOAL
+1,10:25,J.Harten,2PT MISS
+1,10:29,K.Austin,GOAL
+1,11:20,J.Harten,GOAL
+1,11:46,G.Sinclair,GOAL
+1,12:02,J.Harten,2PT MISS
+1,12:20,K.Austin,2PT MISS
+1,12:48,G.Sinclair,2PT GOAL
+1,13:18,K.Austin,GOAL
+1,13:44,K.Austin,2PT MISS
+1,14:40,J.Harten,2PT MISS
+1,14:58,N.Allen,GOAL
+2,0:28,S.Nelson,MISS
+2,0:47,G.Sinclair,GOAL
+2,1:12,J.Harten,GOAL
+2,1:37,S.Nelson,GOAL
+2,1:54,J.Harten,GOAL
+2,2:04,S.Nelson,GOAL
+2,2:25,J.Harten,GOAL
+2,2:39,S.Nelson,MISS
+2,3:10,J.Harten,GOAL
+2,3:45,K.Austin,GOAL
+2,4:19,J.Harten,GOAL
+2,4:40,J.Harten,GOAL
+2,5:08,S.Nelson,GOAL
+2,5:46,S.Nelson,GOAL
+2,6:22,S.Nelson,GOAL
+2,6:48,K.Austin,GOAL
+2,7:08,S.Nelson,GOAL
+2,7:28,J.Harten,MISS
+2,7:52,K.Austin,MISS
+2,8:15,J.Harten,GOAL
+2,8:43,J.Harten,GOAL
+2,9:11,J.Harten,MISS
+2,9:34,G.Sinclair,GOAL
+2,9:52,S.Nelson,GOAL
+2,10:32,K.Austin,2PT GOAL
+2,10:52,N.Allen,2PT GOAL
+2,11:06,J.Harten,2PT GOAL
+2,11:31,N.Allen,GOAL
+2,11:49,J.Harten,GOAL
+2,12:16,G.Sinclair,2PT MISS
+2,12:42,J.Harten,GOAL
+2,13:03,J.Harten,2PT MISS
+2,13:21,K.Austin,GOAL
+2,14:24,N.Allen,2PT MISS
+2,14:28,N.Allen,GOAL
+2,14:51,K.Austin,GOAL
+3,0:21,J.Harten,GOAL
+3,0:47,S.Nelson,GOAL
+3,1:12,K.Austin,GOAL
+3,1:40,S.Nelson,GOAL
+3,2:07,K.Austin,MISS
+3,2:12,K.Austin,MISS
+3,2:16,J.Harten,GOAL
+3,3:19,G.Sinclair,GOAL
+3,3:45,K.Austin,GOAL
+3,3:58,S.Nelson,GOAL
+3,4:19,K.Austin,GOAL
+3,4:44,S.Nelson,GOAL
+3,5:07,K.Austin,MISS
+3,5:26,S.Nelson,GOAL
+3,7:03,S.Nelson,MISS
+3,7:06,S.Nelson,GOAL
+3,7:22,C.Bassett,GOAL
+3,7:49,S.Nelson,GOAL
+3,8:13,J.Harten,GOAL
+3,8:34,G.Sinclair,GOAL
+3,8:56,C.Bassett,GOAL
+3,9:34,C.Bassett,GOAL
+3,9:55,C.Bassett,GOAL
+3,10:15,G.Sinclair,GOAL
+3,10:33,J.Harten,2PT GOAL
+3,11:28,J.Harten,2PT GOAL
+3,11:55,C.Bassett,GOAL
+3,12:16,E.Ryde,GOAL
+3,12:37,C.Bassett,GOAL
+3,12:53,G.Sinclair,2PT GOAL
+3,13:13,C.Bassett,GOAL
+3,13:47,E.Ryde,MISS
+3,13:51,E.Ryde,GOAL
+3,14:04,J.Harten,2PT GOAL
+3,14:38,G.Sinclair,2PT GOAL
+4,0:11,S.Nelson,GOAL
+4,0:25,C.Bassett,GOAL
+4,0:43,S.Nelson,GOAL
+4,1:08,S.Nelson,GOAL
+4,1:40,S.Nelson,GOAL
+4,1:54,J.Harten,GOAL
+4,2:19,G.Sinclair,MISS
+4,2:23,S.Nelson,GOAL
+4,2:50,C.Bassett,GOAL
+4,3:36,C.Bassett,GOAL
+4,3:48,C.Bassett,GOAL
+4,4:07,S.Nelson,GOAL
+4,4:41,J.Harten,GOAL
+4,5:08,G.Sinclair,GOAL
+4,5:36,S.Nelson,GOAL
+4,5:58,S.Nelson,MISS
+4,6:01,S.Nelson,GOAL
+4,6:36,C.Bassett,GOAL
+4,7:11,G.Sinclair,GOAL
+4,7:33,C.Bassett,GOAL
+4,9:19,S.Nelson,MISS
+4,9:38,J.Harten,GOAL
+4,10:02,C.Bassett,GOAL
+4,10:25,G.Sinclair,2PT GOAL
+4,11:00,C.Bassett,GOAL
+4,11:58,C.Bassett,GOAL
+4,12:20,J.Harten,GOAL
+4,12:45,G.Sinclair,2PT GOAL
+4,12:56,C.Bassett,MISS
+4,13:06,C.Bassett,GOAL
+4,13:31,G.Sinclair,2PT MISS
+4,13:37,G.Sinclair,2PT MISS
+4,13:44,G.Sinclair,2PT GOAL
+4,13:57,C.Bassett,GOAL
+4,14:15,G.Sinclair,2PT MISS
+4,14:48,C.Bassett,GOAL
